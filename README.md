@@ -1,2 +1,2 @@
 ## Mini-Project
-Hi there this is our project Yay
+Hi there, this is our project Yay
