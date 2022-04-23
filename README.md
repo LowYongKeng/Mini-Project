@@ -1,4 +1,4 @@
-SC1015 Data Science & AI mini project
+SC1015 Data Science & AI - Mini Project (Assignment)
 ================================
 Done by: Tan Hong Meng, Teng Yen Fong and Low Yong Keng
 
